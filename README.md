@@ -1,2 +1,2 @@
 # Grace-Were
-My Persona Repository
+My Personal Repository
